@@ -16,17 +16,20 @@
 7. 1 buzzer motor
 
 # Schematic
-![Schematic_Su-33-Keychain_2025-05-05](https://github.com/user-attachments/assets/7c58c1e6-4c32-41f5-9c7c-d821765ee6c1)
+
+![Schematic_Su-33-Keychain_2025-05-05 ](https://github.com/user-attachments/assets/623afdaa-51aa-4935-bbfa-d3f24856b1b7)
 
 # PCB
 
 # Top Side
+![image](https://github.com/user-attachments/assets/63b44366-f43d-480b-8e5f-aee5783837b0)
 
-![image](https://github.com/user-attachments/assets/bf9020f6-cd38-4694-b963-36975364fda5)
+
 
 # Bottom Side
+![image](https://github.com/user-attachments/assets/8fd4ca8f-8f20-4de5-8296-a7f1e76c64de)
 
-![image](https://github.com/user-attachments/assets/e978444b-c18f-4f09-a160-8940e227374d)
+
 
 # 3D
 
